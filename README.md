@@ -1,8 +1,8 @@
-🍔 Foodie's Express – Food Delivery Application
+###🍔 Foodie's Express – Food Delivery Application
 
 Foodie's Express is a full-stack food delivery platform that allows users to browse restaurants, order food online, and track their deliveries in real time. It also includes an Admin Dashboard for managing restaurants, menu items, and orders.
 
-🚀 Features
+##🚀 Features
 
 👤 User Features
 🔐 User Authentication (Login / Register)
@@ -14,7 +14,7 @@ Foodie's Express is a full-stack food delivery platform that allows users to bro
 📜 View Order History
 👤 Profile Management
 
-🛠️ Admin Features
+##🛠️ Admin Features
 
 ➕ Add / Edit / Delete Restaurants
 📋 Manage Menu Items
@@ -22,24 +22,41 @@ Foodie's Express is a full-stack food delivery platform that allows users to bro
 👥 Manage Users
 📊 View Sales Analytics
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
-Frontend
+#Frontend
 
-React.js
-Tailwind CSS / CSS
-Axios
-React Router
+- React.js
+- Tailwind CSS / CSS
+- Axios
+- React Router
 
-Backend
+#Backend
 
-Node.js
-Express.js
+- Node.js
+- Express.js
 
-Database
+#Database
 
-MongoDB (Mongoose)
+- MongoDB (Mongoose)
 
-Authentication
+#Authentication
 
-JWT (JSON Web Token)
+- JWT (JSON Web Token)
+
+##📌 Future Enhancements
+
+📍 Live Order Tracking (Google Maps Integration)
+💳 Payment Gateway Integration (Stripe / Razorpay)
+🔔 Email & SMS Notifications
+⭐ Reviews & Ratings System
+📱 Mobile App Version
+
+##📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Krishnaraj R
+MERN Stack Developer | AI Enthutiest
